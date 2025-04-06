@@ -50,7 +50,9 @@
 		padding-right: 400px;
 	}
 
-
+	title {
+		text-align: center;
+	}
 
 	.container {
 		text-align: center;
